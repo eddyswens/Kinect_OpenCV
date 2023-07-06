@@ -75,7 +75,6 @@ cv2.createTrackbar('num of pixels in h',     'Depth', h, 640, change_pixels_num)
 
 print('Press ESC in window to stop')
 
-
 while 1:
     show_depth()
     show_video()

@@ -33,6 +33,7 @@ def pretty_depth_cv(depth):
 
 
 def video_cv(video):
+
     """Converts video into a BGR format for display
 
     This is abstracted out to allow for experimentation
