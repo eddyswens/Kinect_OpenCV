@@ -16,7 +16,7 @@ h = 15
 w = int(h * ratio)
 
 #Gauss_Blur
-k_size = 17
+k_size = 60
 sigX_size = 0
 
 
